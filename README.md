@@ -1,8 +1,8 @@
-1.- Hacer un programa que imprima los números del 1 al 100.
-2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente.
-3.- Hacer un programa que imprima los números pares entre 0 y 100.
-4.- Hacer un programa que imprima la suma de los 100 primeros números.
-5.- Hacer  un  programa  que  imprima  los  números  impares  hasta  el  100  y  que  imprima  cuantos impares hay.
+1.- Hacer un programa que imprima los números del 1 al 100.  
+2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente.  
+3.- Hacer un programa que imprima los números pares entre 0 y 100.  
+4.- Hacer un programa que imprima la suma de los 100 primeros números.  
+5.- Hacer  un  programa  que  imprima  los  números  impares  hasta  el  100  y  que  imprima  cuantos impares hay.  
 6.- Hacer un programa que imprima todos los números naturales que hay desde el uno hasta un número que introducimos por teclado.
 7.- Introducir tantas frases como queramos y contarlas.
 8.- Hacer un programa que solo nos permita introducir S o N.
