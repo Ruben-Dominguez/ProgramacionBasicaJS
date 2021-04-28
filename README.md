@@ -1,5 +1,8 @@
 # Autor: Ruben Dominguez Chavez
 
+## Nota
+Profe, siendo totalmente sincero. Me gusto mucho esta actividad, la verdad aprendi mucho, pero siento que me sobresature en los dias que estuve trabajando. Los ultimos 4 ejercicios no los pude hacer :( aunque los intente bastante. Me gusta mucho su clase y espero que siga siendo igual :) Me gusto el reloj del ejercicio numero 19
+
 1.- Hacer un programa que imprima los números del 1 al 100.  
 2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente.  
 3.- Hacer un programa que imprima los números pares entre 0 y 100.  
